@@ -10,6 +10,7 @@ namespace SpidersFromMars.Controllers
     {
         public ActionResult Index()
         {
+            syntax error
              return View();
         }
     }
