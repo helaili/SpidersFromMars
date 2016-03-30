@@ -13,4 +13,6 @@ namespace SpidersFromMars.Controllers
             return View();
         }
     }
+
+    THIS IS A SYNTAX ERROR
 }
