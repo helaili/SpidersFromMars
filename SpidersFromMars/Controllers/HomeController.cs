@@ -10,9 +10,10 @@ namespace SpidersFromMars.Controllers
     {
         public ActionResult Index()
         {
+
+
+            THIS IS A SYNTAX ERROR
             return View();
         }
     }
-
-    THIS IS A SYNTAX ERROR
 }
